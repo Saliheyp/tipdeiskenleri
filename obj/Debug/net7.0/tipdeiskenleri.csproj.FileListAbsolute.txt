@@ -1,0 +1,15 @@
+D:\Patika\tipdeiskenleri\bin\Debug\net7.0\tipdeiskenleri.exe
+D:\Patika\tipdeiskenleri\bin\Debug\net7.0\tipdeiskenleri.deps.json
+D:\Patika\tipdeiskenleri\bin\Debug\net7.0\tipdeiskenleri.runtimeconfig.json
+D:\Patika\tipdeiskenleri\bin\Debug\net7.0\tipdeiskenleri.dll
+D:\Patika\tipdeiskenleri\bin\Debug\net7.0\tipdeiskenleri.pdb
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.csproj.AssemblyReference.cache
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.AssemblyInfoInputs.cache
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.AssemblyInfo.cs
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.csproj.CoreCompileInputs.cache
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.dll
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\refint\tipdeiskenleri.dll
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.pdb
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\tipdeiskenleri.genruntimeconfig.cache
+D:\Patika\tipdeiskenleri\obj\Debug\net7.0\ref\tipdeiskenleri.dll
